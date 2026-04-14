@@ -54,7 +54,7 @@ header {
   top: 50%;
   left: 50%;
   color: var(--cinza);
-  transform: translateY(-50%);
+  transform: translateY(-50%);;
 }
 
 /*CONTEÚDO*/
@@ -69,9 +69,10 @@ header {
 }
 
 .card {
-  background-color: rgb(212, 234, 255);
+  background-color: rgb(204, 226, 248);
   padding: 1rem;
   border-radius: 8px;
+  border: #333 solid 1px;
 }
 /*FORMULÁRIO*/
 .center {
